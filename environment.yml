@@ -1,0 +1,11 @@
+name: data_analysis
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - scipy
+  - jupyterlab
+  - openpyxl
